@@ -1,0 +1,14 @@
+# Ignore build output
+bin/
+obj/
+
+# Visual Studio config
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+
+# Others
+*.log
